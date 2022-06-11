@@ -5,8 +5,7 @@ body {
     font-family: Arial;
     color: white;
 }
-
-a:link              { color:red; }
-a:visited           { color:green; }
-a:hover             { color:blue; }
-a:active            { color:orange; }
+a:link              { color: #facc00; }
+a:visited           { color: #adff2f; }
+a:hover             { color: #FFFFFF; }
+a:active            { color: #FFFFFF; }
