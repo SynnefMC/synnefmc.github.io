@@ -4,9 +4,11 @@ body {
     text-align: left;
     font-family: Arial;
     color: white;
+    line-height: 2;
 }
 
 a:link              { color: yellow; }
 a:visited           { color: yellowgreen; }
 a:hover             { color: white; }
 a:active            { color: white; }
+
