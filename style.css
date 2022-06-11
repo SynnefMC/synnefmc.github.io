@@ -4,6 +4,12 @@ body {
     text-align: left;
     font-family: Arial;
     color: white;
-    a:link {
-  color: #265301;
-    }
+}
+
+a:link {
+    color: #facc00
+}
+
+a:visited {
+    color: #adff2f
+}
