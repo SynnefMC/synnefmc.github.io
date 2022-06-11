@@ -5,6 +5,7 @@ body {
     font-family: Arial;
     color: white;
 }
+
 a:link              { color: #facc00; }
 a:visited           { color: #adff2f; }
 a:hover             { color: #FFFFFF; }
