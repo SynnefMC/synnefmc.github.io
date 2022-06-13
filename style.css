@@ -3,8 +3,9 @@ body {
     background-color:rgb(32, 34, 37);
     text-align: left;
     font-family: Arial;
+    font-size: medium;
     color: white;
-    line-height: 2;
+    line-height: 1,5;
 }
 
 a:link              { color: yellow; }
