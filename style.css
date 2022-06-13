@@ -12,5 +12,3 @@ a:link              { color: yellow; }
 a:visited           { color: yellowgreen; }
 a:hover             { color: white; }
 a:active            { color: white; }
-
-hr {clear: both;visibility: hidden;}
